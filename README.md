@@ -14,5 +14,4 @@ You can use this to plan your week.
 Please refer to the LICENSE in the repo.
 
 
-![Screenshot of the website](./images/schedule.png)
-
+![Screenshot of the website]challenge (4)/starter/images/schedule.png
